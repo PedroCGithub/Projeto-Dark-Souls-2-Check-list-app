@@ -14,6 +14,7 @@
 
 # Estrutura Do Json
 
+```text
 Categoria
 |
 |--Feitiços
@@ -40,5 +41,5 @@ Categoria
 |  |-- Tudo que sobrou em relação as cetegorias como estus no maximo, etc.
 |       |-- Id, nome, descrição, como obter, ngPlus, obteve
 |
-
+```
 # Estrutura do projeto
